@@ -2,6 +2,7 @@
 * 极客标签： http://www.gbtags.com/
 * 码农周刊： http://weekly.manong.io/issues/
 * 前端周刊： http://www.feweekly.com/issues
+* w3cfun：http://www.w3cfuns.com/
 * 极客头条： http://geek.csdn.net/
 * Startup News：http://news.dbanotes.net/
 * Hacker News： https://news.ycombinator.com/news
@@ -20,3 +21,8 @@
 * 每日英语听力：http://dict.eudic.net/ting   
 * pc6 苹果网http://www.pc6.com/mach/macdownl/
 * XAMPP中文用户组：http://www.xampp.cc/archives/92
+* 18个详细响应式网页设计教程：http://www.open-open.com/news/view/1aa368e
+* 八款你不得不知的开源前端JS框架：http://www.lupaworld.com/article-245160-1.html
+* 好多视频网：http://haoduoshipin.com/
+* WEB前端开发：http://www.css88.com/archives/5537#more-5537
+* W3Cplus：http://www.w3cplus.com/blog/tags/368.html
