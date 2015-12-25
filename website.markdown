@@ -1,4 +1,5 @@
 ##WebSite
+* 稀土掘金： http://gold.xitu.io/
 * 极客标签： http://www.gbtags.com/
 * 码农周刊： http://weekly.manong.io/issues/
 * 前端周刊： http://www.feweekly.com/issues
